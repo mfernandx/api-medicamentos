@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Itens de Solução/">
+    <File Path=".gitignore" />
+  </Folder>
+  <Project Path="PacientesApi.Tests/PacientesApi.Tests.csproj" />
+  <Project Path="PacientesApi/PacientesApi.csproj" />
+</Solution>
